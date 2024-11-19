@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_note">Создать заметку</string>
+    <string name="edit_text_title">Введите заголовок заметки</string>
+    <string name="edit_text_description">Введите описание заметки</string>
+    <string name="long_click_to_delete">Зажми чтобы удалить</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="save_note">Создать заметку</string>
+    <string name="edit_text_title">Введите заголовок заметки</string>
+    <string name="edit_text_description">Введите описание заметки</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="title_description_is_not_null">Все поля должны быть заполнены</string>
+    <string name="long_click_to_delete">Зажми чтобы удалить</string>
+    <string-array name="day_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
